@@ -26,7 +26,7 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:src="@drawable/simpleAvatar"
+                android:src="@drawable/simple_avatar"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1" />
@@ -48,7 +48,7 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:src="@drawable/simpleAvatarFemale"
+                android:src="@drawable/simple_avatar_female"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1" />
@@ -70,7 +70,7 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:src="@drawable/simpleAvatarFemale"
+                android:src="@drawable/simple_avatar_female"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1" />
@@ -92,7 +92,7 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:src="@drawable/simpleAvatar"
+                android:src="@drawable/simple_avatar"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1" />
@@ -114,7 +114,7 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:src="@drawable/simpleAvatarFemale"
+                android:src="@drawable/simple_avatar_female"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1" />
